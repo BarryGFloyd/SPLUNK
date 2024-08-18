@@ -61,6 +61,11 @@ I installed Windows Server 2022 on a VM and downloaded the SIEM Splunk, to demon
 
   ![Alt text](https://github.com/user-attachments/assets/eb7c8cce-0e54-4137-babc-85fb2a8b54ba)
 
+  ### Now it shows everything cleared
+
+  ![Alt text](https://github.com/user-attachments/assets/133536b7-6656-4f46-8fee-b67674663594)
+  
+
 
 
 
