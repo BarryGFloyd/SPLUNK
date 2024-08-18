@@ -93,6 +93,10 @@ I installed Windows Server 2022 on a VM and downloaded the SIEM Splunk, to demon
 
   ![Alt text](https://github.com/user-attachments/assets/ad05e14d-147a-4b1e-ad95-2667aa0ce977)
 
+  ### I set the new Dashboard as a home dashboard which will now appear as the main viewing screen
+
+  ![Alt text](https://github.com/user-attachments/assets/6c6b2e50-7ddd-496a-8de0-57fe1401c9c6)
+
   
 
 
