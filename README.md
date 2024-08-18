@@ -55,7 +55,9 @@ I installed Windows Server 2022 on a VM and downloaded the SIEM Splunk, to demon
 
   ![Alt text](https://github.com/user-attachments/assets/dbf040ea-9ec1-49e7-a910-8c7b32375c8f)
 
-  ![Alt text]
+  ### I narrowed down the search by adding the host WIN-9U6SIS2QUSF, source WinEventLog:Security and EventCode = 1102
+  
+  ![Alt text](https://github.com/user-attachments/assets/eb30080f-31dc-4314-8802-45df249701fb)
 
 
 
