@@ -89,6 +89,10 @@ I installed Windows Server 2022 on a VM and downloaded the SIEM Splunk, to demon
 
   ![Alt text](https://github.com/user-attachments/assets/b16310f1-5dff-45ad-8c17-70308c21a49e)
 
+  ### The saved Dashboard now appears and we can set it for easy view
+
+  ![Alt text](https://github.com/user-attachments/assets/ad05e14d-147a-4b1e-ad95-2667aa0ce977)
+
   
 
 
