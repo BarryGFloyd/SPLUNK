@@ -34,7 +34,9 @@ I installed Windows Server 2022 on a VM and downloaded the SIEM Splunk, to demon
 
   ![Alt text](https://github.com/user-attachments/assets/4bd07223-0f6a-4c3c-8808-2458c40219ca)
 
+  ### Here I will select local logs.  However you can also do more by selecting remote as well.  For the demonstration, I will keep it simple.
 
+  ![Alt text](https://github.com/user-attachments/assets/5807c7d6-28dc-435b-ba03-b306f0a1c4d1)
 
 
 
