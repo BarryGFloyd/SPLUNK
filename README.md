@@ -76,6 +76,10 @@ I installed Windows Server 2022 on a VM and downloaded the SIEM Splunk, to demon
   ### Now I created a new Dashboard to demonstrate a different view.
 
   ![Alt text](https://github.com/user-attachments/assets/e9a66b98-693a-4596-9be4-43153eb3d585)
+
+  ###  I added a table and pasted query WIN-9U6SIS2QUSF, source WinEventLog:Security and EventCode = 1102 in the search SPL
+
+  ![Alt text](https://github.com/user-attachments/assets/048413c5-e5d5-40fb-81e7-a169a6becf07)
   
 
 
