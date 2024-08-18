@@ -81,7 +81,7 @@ I installed Windows Server 2022 on a VM and downloaded the SIEM Splunk, to demon
 
   ![Alt text](https://github.com/user-attachments/assets/048413c5-e5d5-40fb-81e7-a169a6becf07)
   
-
+  ![Alt text](https://github.com/user-attachments/assets/670dbf6e-6ae2-4072-8ed7-d037681b8ee8)
 
 
 
