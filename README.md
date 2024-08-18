@@ -85,6 +85,10 @@ I installed Windows Server 2022 on a VM and downloaded the SIEM Splunk, to demon
 
   ### Now I named the data source and demonstrated how to add/remove fields in the table by typing a pipe | - fields _bkt, _cd
 
+  ### now it shows the fields are removed
+
+  ![Alt text](https://github.com/user-attachments/assets/b16310f1-5dff-45ad-8c17-70308c21a49e)
+
   
 
 
