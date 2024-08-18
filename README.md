@@ -43,12 +43,15 @@ I installed Windows Server 2022 on a VM and downloaded the SIEM Splunk, to demon
   ![Alt text](https://github.com/user-attachments/assets/9cf5d17a-4b54-4ab4-a565-2f85c3a9a746)
 
 
-  ### I typed a * in the search area to show all the logs.
+  ### I clicked on search and reporting and put in an * in the search box to yield all the results/events. You can also get more advanced with filters, queries and parameters
+ 
+
 
   ![Alt text](https://github.com/user-attachments/assets/647c9697-61b3-4d17-ab40-d57ef5cd5494)
 
+  ### I opened up the event viewer in Windows and went under Windows logs and security, than I right clicked to clear the security logs
 
-
+  ![Alt text]
 
 
 
