@@ -38,6 +38,10 @@ I installed Windows Server 2022 on a VM and downloaded the SIEM Splunk, to demon
 
   ![Alt text](https://github.com/user-attachments/assets/5807c7d6-28dc-435b-ba03-b306f0a1c4d1)
 
+  ### I now selected the local logs to ingest.
+
+  ![Alt text](https://github.com/user-attachments/assets/9cf5d17a-4b54-4ab4-a565-2f85c3a9a746)
+
 
 
 
