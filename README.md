@@ -72,6 +72,10 @@ I installed Windows Server 2022 on a VM and downloaded the SIEM Splunk, to demon
   ### Now it shows the logs in a table view
 
   ![Alt text](https://github.com/user-attachments/assets/44a3eae8-aa1c-41cd-9c55-b7e7fb37fd46)
+
+  ### Now I created a new Dashboard to demonstrate a different view.
+
+  ![Alt text](https://github.com/user-attachments/assets/e9a66b98-693a-4596-9be4-43153eb3d585)
   
 
 
